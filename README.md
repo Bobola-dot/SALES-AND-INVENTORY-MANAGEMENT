@@ -83,6 +83,9 @@ The analysis identifies the **top-selling products**, slow-moving products, and 
 
 Customer order frequency and spending are analyzed to identify **loyal and high-value customers**, while also identifying customers who have not placed any orders.
 
+<img width="496" height="337" alt="Customers" src="https://github.com/user-attachments/assets/b50eb1a2-34f0-4255-88cc-db1dd8533982" />
+
+
 ###  Inventory & Restocking
 
 Product sales volume is used to identify products that may require restocking, while low-sales products can be monitored as potential slow-moving inventory.

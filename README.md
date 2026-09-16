@@ -69,6 +69,9 @@ The analysis is designed to provide visibility into several important areas of t
 
 Daily sales and total revenue can be analyzed to understand overall sales performance and identify periods of stronger or weaker sales activity.
 
+<img width="464" height="299" alt="sales" src="https://github.com/user-attachments/assets/12ddf286-cd1b-433e-b36e-f042740705d7" />
+
+
 ###  Product Performance
 
 The analysis identifies the **top-selling products**, slow-moving products, and products that have never been sold. This provides a basis for understanding product demand and inventory performance.

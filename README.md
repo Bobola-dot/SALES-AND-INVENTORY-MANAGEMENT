@@ -90,6 +90,9 @@ Customer order frequency and spending are analyzed to identify **loyal and high-
 
 Product sales volume is used to identify products that may require restocking, while low-sales products can be monitored as potential slow-moving inventory.
 
+<img width="463" height="310" alt="Restocking" src="https://github.com/user-attachments/assets/6f9f9adc-56be-4578-9596-fe9f499c88e1" />
+
+
 ###  Supplier Performance
 
 Supplier revenue is calculated to identify the **best-performing supplier**, providing a useful metric for evaluating supplier contribution to sales.

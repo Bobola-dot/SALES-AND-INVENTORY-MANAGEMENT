@@ -97,6 +97,9 @@ Product sales volume is used to identify products that may require restocking, w
 
 Supplier revenue is calculated to identify the **best-performing supplier**, providing a useful metric for evaluating supplier contribution to sales.
 
+<img width="452" height="338" alt="Supplier" src="https://github.com/user-attachments/assets/8bac1a57-50a9-40b5-b831-318a5d1b68fe" />
+
+
 ---
 
 ##  Business Recommendations

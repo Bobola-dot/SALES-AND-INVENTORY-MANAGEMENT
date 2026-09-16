@@ -76,6 +76,9 @@ Daily sales and total revenue can be analyzed to understand overall sales perfor
 
 The analysis identifies the **top-selling products**, slow-moving products, and products that have never been sold. This provides a basis for understanding product demand and inventory performance.
 
+<img width="413" height="311" alt="Product" src="https://github.com/user-attachments/assets/60cacca3-6e18-4ba0-976f-c046adfed348" />
+
+
 ###  Customer Behavior
 
 Customer order frequency and spending are analyzed to identify **loyal and high-value customers**, while also identifying customers who have not placed any orders.
